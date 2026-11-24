@@ -90,5 +90,5 @@ The network uses a star-like hierarchical topology centered around a **Cisco 291
 
 **Sarah Ayenigbara**
 
-* GitHub: [github.com/sarahayeni](https://www.google.com/search?q=https://github.com/sarahayeni)
-* Email: sarah.ayenigbara@example.com
+* GitHub: [github.com/sarahayenigbara](https://www.google.com/search?q=https://github.com/sarahayenigbara)
+* Email: sarah.ayenigbara@gmail.com
